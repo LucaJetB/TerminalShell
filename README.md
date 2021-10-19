@@ -7,13 +7,13 @@ Target audidence would be undergrad CS students
 
 
 Features:
-Autofill
-Help button
-Clickable directories
-Printing files with pngs
-Easy file manipulation and access
-Gnu preinstalled
-Auto generating makefiles, gitignores, etc.
+Autofill\n
+Help button\n
+Clickable directories\n
+Printing files with pngs\n
+Easy file manipulation and access\n
+Gnu preinstalled\n
+Auto generating makefiles, gitignores, etc.\n
 
 Create an executable shell file
 Possibly overlays on linux terminals
