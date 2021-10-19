@@ -4,16 +4,21 @@ We want to make an interactive terminal shell that makes usage convenient and st
 
 Target audidence would be undergrad CS students
 
-
-
 Features:
-Autofill\n
-Help button\n
-Clickable directories\n
-Printing files with pngs\n
-Easy file manipulation and access\n
-Gnu preinstalled\n
-Auto generating makefiles, gitignores, etc.\n
+
+Autofill
+
+Help button
+
+Clickable directories
+
+Printing files with pngs
+
+Easy file manipulation and access
+
+Gnu preinstalled
+
+Auto generating makefiles, gitignores, etc.
 
 Create an executable shell file
 Possibly overlays on linux terminals
